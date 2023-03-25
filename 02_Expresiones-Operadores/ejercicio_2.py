@@ -269,7 +269,7 @@ print("import re")
 print('frase = "Tengo 2 hijos que tienen 15 y 11 años"')
 frase = "Tengo 2 hijos que tienen 15 y 11 años"
 print("patron = '[0-9]+' ")
-patron = '[0-9]+' #Esta es una expresión regular
+patron = '[0-9]+'#Esta es una expresión regular
 print("re.findall(patron, frase)")
-re.findall(patron, frase)
+print(re.findall(patron, frase))
 #
