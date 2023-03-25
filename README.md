@@ -1,2 +1,2 @@
-# InformaticaAplicada
-Portafolio
+# InfAplicada
+Clase de Informatica aplicada
