@@ -1,3 +1,22 @@
+#Trabajo de comnetar un codigo relacionado a lo visto en clase
+#-----------------------Datos del Estudiante--------------------------------------
+#Alumno: Miguel De Jesús Calderón Hernández 
+#Matricula: 36174268
+#Materia: Informatica Aplicada 
+#Semestre y grupo: 8vo B
+#Docente: Dra. Ana Gabriela Sanchez Reyna 
+#Contacto: 492 204 4263 36174268@uaz.edu.mx
+#Ultima Fecha de esicion: 28 de abril del 2023 
+#----------------------------------------------------------------------------------
+#Filtro Buterwort 11vo orden, respuesta en frecuencia, respuesta en magnitud, transformacion Z 
+#Filtro pasa banda
+#Especificaciones:
+#La frecuencia de muestreo de 12 kHz.
+#Las frecuencias de borde de la banda de paso son 2100 Hz y 4500 Hz.
+#Las frecuencias de borde de la banda de parada son 2700 Hz y 3900 Hz.
+#Ondulación de banda de paso de 0,6 dB.
+#Atenuación mínima de la banda de parada de 45 dB.
+
 # importacion de las librerias necesarias 
 import numpy as np #Posee una coleccion de funciones matematicas 
 import matplotlib.pyplot as plt #Permite generar los graficos en dos dimensiones a partir de listas o arrys
